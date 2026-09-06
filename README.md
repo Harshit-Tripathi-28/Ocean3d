@@ -4,7 +4,7 @@
 
 ### Explore, compare, and analyze ocean conditions through an interactive 3D web platform.
 
-[![Live Demo](https://img.shields.io/badge/🌊_Live_Demo-Ocean3D-0ea5e9?style=for-the-badge)](https://ocean3d-jzk8sx93p-vivek28ns-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌊_Live_Demo-Ocean3D-0ea5e9?style=for-the-badge)](https://ocean3d.vercel.app)
 [![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
@@ -29,7 +29,7 @@ The interface allows users to move between ocean regions, physical parameters, d
 
 ### 🚀 Try it live
 
-**[🌊 Open Ocean3D Live Demo](https://ocean3d-jzk8sx93p-vivek28ns-projects.vercel.app/)**
+**[🌊 Open Ocean3D Live Demo](https://ocean3d.vercel.app)**
 
 ---
 
